@@ -32,8 +32,6 @@ public class UsingAutoIT {
         Thread.sleep(5000);
 
         Runtime.getRuntime().exec("D:\\AutoIT\\test.exe");
-
-
     }
 
 }
